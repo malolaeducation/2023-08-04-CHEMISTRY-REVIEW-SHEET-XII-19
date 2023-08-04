@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="AF5F37B2-DB67-428D-B36E-3C589D0BE18F" version="0">
+	<info>
+		<title>2023-08-04-CHEMISTRY REVIEW SHEET-XII-19</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="2328888">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-1aa47027a07d69a5004f0b158b349020e49a148c.png</file>
+		<file id="id10">data/images/img-23e94c021479df13333ad3bafdbb6e5520989851.jpg</file>
+		<file id="id11">data/images/img-5386675b5f87ae3b5a8cf40a017318793e97d028.png</file>
+		<file id="id12">data/images/img-89bf624a921b38c5ff57f47f3296eb46a8e253d8.jpg</file>
+		<file id="id13">data/images/img-b5b000e13b5d42e65a1b5d866a276caa8e56bc4a.png</file>
+		<file id="id14">data/images/img-d02cf8355828987e3454b303d83e198ed0c48347.png</file>
+		<file id="id15">data/images/img-d3bddb259cf5a36ed7d16437833b71ebd14b8baf.jpg</file>
+		<file id="id16">data/images/img-dd115d4d1bb71471b8f0f17aafa2ec91c13d85c7.jpg</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
